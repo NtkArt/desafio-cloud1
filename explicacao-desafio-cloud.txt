@@ -1,0 +1,7 @@
+Explicação sobre as escolhas CloudCraft
+
+API GATEWAY - Devido a sua escalabilidade, e o fato de poder gerar uma API sem servidor.
+
+S3 - Performance, escalabilidade, disponibilidade e durabilidade. Escolha devido a suas tolerencia a possiveis falhas.
+
+AWS LAMBDA - Escalabilidade continua, possibilidade da execução de um codigo via nuvem. Fazendo assim uma integração com o API GATEWAY.
