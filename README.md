@@ -1,8 +1,13 @@
-# desafio-cloud1
+# S3 Uploader API
 
-Repositorio criado para armazenar arquivos do desafio bootcamp.
+### Description
 
+Api escrita em NodeJS para o upload de arquivos em um bucket S3.
 
-Autor: Arthur Carnerio da Rocha Menezes.          
-Objetivo: Criar uma RESTful API ultilizando os serviços da amazon.
-//
+### Autor
+
+Arthur Carneiro da Rocha Menezes
+
+MIT (C)
+
+---
