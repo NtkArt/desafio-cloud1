@@ -4,7 +4,7 @@
   "description": "RESTful API em NodeJS - DESAFIO BOOTCAMP",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.503.0",
+    "aws-sdk": "^2.814.0",
     "fs": "0.0.1-security",
     "line-reader": "^0.4.0"
   },
